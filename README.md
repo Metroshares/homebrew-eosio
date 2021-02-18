@@ -1,2 +1,2 @@
-# homebrew-eosio
-homebrew tap for EOSIO
+# homebrew-amontesorg
+homebrew tap for AMONTESORG
